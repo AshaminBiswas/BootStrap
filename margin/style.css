@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.container{
+    border: 3px solid red;
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+.row{
+    border: 1px solid black;
+}
