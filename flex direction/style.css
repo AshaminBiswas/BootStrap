@@ -1,0 +1,20 @@
+.container{
+    border: 5px solid black;
+}
+
+.row{
+    border: 3px solid red;
+}
+
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.violet{
+    background-color: violet;
+}
+.blue{
+    background-color: blue;
+}
